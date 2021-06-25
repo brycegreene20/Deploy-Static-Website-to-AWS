@@ -1,4 +1,4 @@
-# AWS_Project1
+# Deploy Static Websiter to AWS
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions that were implemented:
 
 Hosted a static website on S3 and
