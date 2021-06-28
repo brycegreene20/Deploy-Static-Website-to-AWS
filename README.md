@@ -28,17 +28,14 @@ index.html - The Index document for the website.
 -Website code pushed to this repository
 
 
-
-
-# Website being accessed through Cloud Front
-![image](https://user-images.githubusercontent.com/67281298/123663842-ca463680-d804-11eb-92ad-0da79bcac335.png)
-
 # CloudFront Distributions
 ![image](https://user-images.githubusercontent.com/67281298/123664220-2610bf80-d805-11eb-8587-a5cb155f45ee.png)
 
 # S3 Bucket with Website Files
 ![image](https://user-images.githubusercontent.com/67281298/123664482-5fe1c600-d805-11eb-9265-9fa066a54e14.png)
 
+# Website being accessed through Cloud Front
+![image](https://user-images.githubusercontent.com/67281298/123663842-ca463680-d804-11eb-92ad-0da79bcac335.png)
 #
 #
 #
