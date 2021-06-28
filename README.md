@@ -36,13 +36,5 @@ index.html - The Index document for the website.
 
 # Website being accessed through Cloud Front
 ![image](https://user-images.githubusercontent.com/67281298/123663842-ca463680-d804-11eb-92ad-0da79bcac335.png)
-#
-#
-#
-
-![image](https://user-images.githubusercontent.com/67281298/123663686-a5ea5a00-d804-11eb-82ee-748a46fc59cf.png)
-
-
-
 
 
